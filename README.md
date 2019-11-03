@@ -1,2 +1,2 @@
-# Breeze-Chameleon-Amethyst-Icins
+# Breeze-Chameleon-Amethyst-Icons
 Plasma Icons
