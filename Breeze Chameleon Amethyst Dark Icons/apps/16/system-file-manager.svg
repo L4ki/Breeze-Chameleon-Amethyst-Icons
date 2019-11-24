@@ -15,7 +15,7 @@
    viewBox="0 0 16 16"
    id="svg8694"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="system-file-manager.svg">
   <defs
      id="defs8696">
@@ -23,11 +23,11 @@
        inkscape:collect="always"
        id="linearGradient4154">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#2f2043;stop-opacity:1"
          offset="0"
          id="stop4156" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#2f2043;stop-opacity:1"
          offset="1"
          id="stop4158" />
     </linearGradient>
@@ -45,11 +45,11 @@
        inkscape:collect="always"
        id="linearGradient4172-5">
       <stop
-         style="stop-color:#127bdc;stop-opacity:1"
+         style="stop-color:#9966cc;stop-opacity:1"
          id="stop4174-6" />
       <stop
          offset="1"
-         style="stop-color:#64b4f4;stop-opacity:1"
+         style="stop-color:#2f2043;stop-opacity:1"
          id="stop4176-6" />
     </linearGradient>
     <linearGradient
@@ -88,11 +88,11 @@
        inkscape:collect="always"
        id="linearGradient4291">
       <stop
-         style="stop-color:#1d5e8c;stop-opacity:1"
+         style="stop-color:#9966cc;stop-opacity:1"
          offset="0"
          id="stop4293" />
       <stop
-         style="stop-color:#2675a7;stop-opacity:1"
+         style="stop-color:#2f2043;stop-opacity:1"
          offset="1"
          id="stop4295" />
     </linearGradient>
@@ -113,9 +113,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="6.8659254"
-     inkscape:cy="3.7625775"
+     inkscape:zoom="16"
+     inkscape:cx="-5.2388"
+     inkscape:cy="10.078374"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -125,7 +125,12 @@
      inkscape:object-nodes="true"
      inkscape:snap-global="true"
      inkscape:showpageshadow="false"
-     showborder="false">
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid9302" />
