@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="folder-image-people.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1007"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="3.6875"
@@ -43,7 +43,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3051">
     <linearGradient
@@ -145,7 +146,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 32 27 A 4.9999962 4.9999962 0 0 0 27 32 A 4.9999962 4.9999962 0 0 0 32 37 A 4.9999962 4.9999962 0 0 0 37 32 A 4.9999962 4.9999962 0 0 0 32 27 z M 32 28 A 4 4 0 0 1 36 32 A 4 4 0 0 1 32 36 A 4 4 0 0 1 28 32 A 4 4 0 0 1 32 28 z M 32 38 A 9.9999866 9.9999866 0 0 0 22.060547 47 L 23.060547 47 L 41 47 L 41.949219 47 A 9.9999866 9.9999866 0 0 0 32 38 z M 32 39 A 9 9 0 0 1 40.751953 46 L 23.234375 46 A 9 9 0 0 1 32 39 z "
      class="ColorScheme-Background"
      id="path12" />

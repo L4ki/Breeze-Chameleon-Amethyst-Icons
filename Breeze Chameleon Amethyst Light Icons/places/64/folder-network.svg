@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="folder-network.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1007"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="3.6875"
@@ -43,7 +43,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3051">
     <linearGradient
@@ -145,7 +146,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 38.900391 27 A 2 2 0 0 0 36.900391 29 A 2 2 0 0 0 38.900391 31 A 2 2 0 0 0 40.900391 29 A 2 2 0 0 0 38.900391 27 z M 35.400391 30 A 0.5 0.5 0 0 0 34.900391 30.5 A 0.5 0.5 0 0 0 35.400391 31 A 0.5 0.5 0 0 0 35.900391 30.5 A 0.5 0.5 0 0 0 35.400391 30 z M 32.400391 32 A 0.5 0.5 0 0 0 31.900391 32.5 A 0.5 0.5 0 0 0 32.400391 33 A 0.5 0.5 0 0 0 32.900391 32.5 A 0.5 0.5 0 0 0 32.400391 32 z M 29.400391 34 A 0.5 0.5 0 0 0 28.900391 34.5 A 0.5 0.5 0 0 0 29.400391 35 A 0.5 0.5 0 0 0 29.900391 34.5 A 0.5 0.5 0 0 0 29.400391 34 z M 24.900391 35 A 2 2 0 0 0 22.900391 37 A 2 2 0 0 0 24.900391 39 A 2 2 0 0 0 26.900391 37 A 2 2 0 0 0 24.900391 35 z M 29.400391 39 A 0.5 0.5 0 0 0 28.900391 39.5 A 0.5 0.5 0 0 0 29.400391 40 A 0.5 0.5 0 0 0 29.900391 39.5 A 0.5 0.5 0 0 0 29.400391 39 z M 32.400391 41 A 0.5 0.5 0 0 0 31.900391 41.5 A 0.5 0.5 0 0 0 32.400391 42 A 0.5 0.5 0 0 0 32.900391 41.5 A 0.5 0.5 0 0 0 32.400391 41 z M 35.400391 43 A 0.5 0.5 0 0 0 34.900391 43.5 A 0.5 0.5 0 0 0 35.400391 44 A 0.5 0.5 0 0 0 35.900391 43.5 A 0.5 0.5 0 0 0 35.400391 43 z M 38.900391 43 A 2 2 0 0 0 36.900391 45 A 2 2 0 0 0 38.900391 47 A 2 2 0 0 0 40.900391 45 A 2 2 0 0 0 38.900391 43 z "
      class="ColorScheme-Background"
      id="path12" />
