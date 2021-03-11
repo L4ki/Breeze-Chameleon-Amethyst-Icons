@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="folder-network.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1007"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
@@ -43,7 +43,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3051">
     <linearGradient
@@ -145,7 +146,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 20 13 A 0.99999398 1 0 0 0 19 14 A 0.99999398 1 0 0 0 20 15 A 0.99999398 1 0 0 0 21 14 A 0.99999398 1 0 0 0 20 13 z M 16.5 15 A 0.5 0.5 0 0 0 16 15.5 A 0.5 0.5 0 0 0 16.5 16 A 0.5 0.5 0 0 0 17 15.5 A 0.5 0.5 0 0 0 16.5 15 z M 14.5 16 A 0.5 0.5 0 0 0 14 16.5 A 0.5 0.5 0 0 0 14.5 17 A 0.5 0.5 0 0 0 15 16.5 A 0.5 0.5 0 0 0 14.5 16 z M 12 17 A 0.99999398 1 0 0 0 11 18 A 0.99999398 1 0 0 0 12 19 A 0.99999398 1 0 0 0 13 18 A 0.99999398 1 0 0 0 12 17 z M 14.5 19 A 0.5 0.5 0 0 0 14 19.5 A 0.5 0.5 0 0 0 14.5 20 A 0.5 0.5 0 0 0 15 19.5 A 0.5 0.5 0 0 0 14.5 19 z M 16.5 20 A 0.5 0.5 0 0 0 16 20.5 A 0.5 0.5 0 0 0 16.5 21 A 0.5 0.5 0 0 0 17 20.5 A 0.5 0.5 0 0 0 16.5 20 z M 20 21 A 0.99999398 1 0 0 0 19 22 A 0.99999398 1 0 0 0 20 23 A 0.99999398 1 0 0 0 21 22 A 0.99999398 1 0 0 0 20 21 z "
      class="ColorScheme-Background"
      id="path12" />

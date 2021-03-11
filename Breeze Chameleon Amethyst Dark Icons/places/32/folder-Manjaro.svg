@@ -10,17 +10,18 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 32 32"
    version="1.1"
-   id="svg14"
-   sodipodi:docname="folder-music.svg"
+   id="svg12"
+   sodipodi:docname="folder-Manjaro.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
-     id="metadata18">
+     id="metadata16">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,41 +36,29 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
-     id="namedview16"
+     id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-32.677966"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14"
+     inkscape:current-layer="svg12"
      inkscape:document-rotation="0" />
   <defs
      id="defs3051">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient840">
+       id="linearGradient827">
       <stop
          style="stop-color:#9966cc;stop-opacity:1"
          offset="0"
-         id="stop836" />
-      <stop
-         style="stop-color:#9966cc;stop-opacity:1"
-         offset="1"
-         id="stop838" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient832">
-      <stop
-         style="stop-color:#9966cc;stop-opacity:1"
-         offset="0"
-         id="stop828" />
+         id="stop823" />
       <stop
          style="stop-color:#2f2043;stop-opacity:1"
          offset="1"
-         id="stop830" />
+         id="stop825" />
     </linearGradient>
     <style
        type="text/css"
@@ -110,30 +99,21 @@
       </style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient832"
-       id="linearGradient834"
+       xlink:href="#linearGradient827"
+       id="linearGradient829"
        x1="1"
        y1="16"
-       x2="31"
-       y2="16"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient840"
-       id="linearGradient842"
-       x1="2"
-       y1="6.5"
-       x2="30"
-       y2="6.5"
+       x2="30.649267"
+       y2="15.680963"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
-     style="fill:url(#linearGradient834);fill-opacity:1;stroke:none"
+     style="fill:url(#linearGradient829);fill-opacity:1;stroke:none"
      d="M 2 3 L 2 10 L 1 10 L 1 29 L 12 29 L 13 29 L 31 29 L 31 8 L 30 8 L 30 5 L 16 5 L 14 3 L 2 3 z "
      class="ColorScheme-Highlight"
      id="path4" />
   <path
-     style="fill-opacity:1;fill-rule:evenodd;fill:url(#linearGradient842)"
+     style="fill-opacity:1;fill-rule:evenodd;fill:#9966cc"
      d="m 2,3 0,7 9,0 L 13,8 30,8 30,5 16,5 14,3 2,3 Z"
      id="path6" />
   <path
@@ -146,8 +126,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 14 13 L 14 14 L 14 19.269531 A 1.9999998 1.9999998 0 0 0 13 19 A 1.9999998 1.9999998 0 0 0 11 21 A 1.9999998 1.9999998 0 0 0 13 23 A 1.9999998 1.9999998 0 0 0 15 21 L 15 16 L 20 16 L 20 18.271484 A 1.9999998 1.9999998 0 0 0 19 18 A 1.9999998 1.9999998 0 0 0 17 20 A 1.9999998 1.9999998 0 0 0 19 22 A 1.9999998 1.9999998 0 0 0 21 20 L 21 14 L 21 13 L 15 13 L 14 13 z M 15 14 L 20 14 L 20 15 L 15 15 L 15 14 z "
-     class="ColorScheme-Background"
-     id="path12" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.625"
+     d="m 11.286817,13.866517 c -0.296838,0 -0.535919,0.239103 -0.535919,0.535892 v 8.928226 c 0,0.296777 0.25219,0.448602 0.535919,0.535882 h 2.589082 v -6.875 h 3.75 v -3.125 z m 6.964082,0 v 10 h 2.589118 c 0.296778,0 0.535882,-0.239105 0.535882,-0.535882 v -8.928226 c 0,-0.296789 -0.239104,-0.535892 -0.535882,-0.535892 z m -6.875001,0.625 h 5.625001 v 1.875 h -3.125 a 0.6250622,0.6250622 0 0 0 -0.625001,0.625 v 6.25 h -1.845719 c -0.0111,-0.0047 -0.02175,-0.0081 -0.02947,-0.0122 z m 7.500001,0 h 1.875 v 8.75 h -1.875 z m -4.375,3.125 v 6.25 h 3.125 v -6.25 z m 0.625,0.625 h 1.875 v 5 h -1.875 z"
+     id="path4-3" />
 </svg>

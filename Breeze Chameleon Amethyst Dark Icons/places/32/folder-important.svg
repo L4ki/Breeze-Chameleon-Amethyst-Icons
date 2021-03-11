@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="folder-important.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1007"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
@@ -43,7 +43,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3051">
     <linearGradient
@@ -145,8 +146,8 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
-     d="M 16 13 C 15.44772 13 15 13.44772 15 14 C 15 14.55228 15.44772 20 16 20 C 16.55228 20 17 14.55228 17 14 C 17 13.44772 16.55228 13 16 13 z M 16 21 A 1 0.99998683 0 0 0 15 22 A 1 0.99998683 0 0 0 16 23 A 1 0.99998683 0 0 0 17 22 A 1 0.99998683 0 0 0 16 21 z "
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="m 16.133872,13.267752 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,6 1,6 0.55228,0 1,-5.44772 1,-6 0,-0.55228 -0.44772,-1 -1,-1 z m 0,8 a 1,0.99998683 0 0 0 -1,1 1,0.99998683 0 0 0 1,1 1,0.99998683 0 0 0 1,-1 1,0.99998683 0 0 0 -1,-1 z"
      class="ColorScheme-Background"
      id="path12" />
 </svg>
