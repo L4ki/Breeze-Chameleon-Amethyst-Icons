@@ -11,7 +11,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg12"
-   sodipodi:docname="folder.svg"
+   sodipodi:docname="folder-Manjaro.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata16">
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,9 +38,9 @@
      inkscape:window-height="1007"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="-16.677966"
-     inkscape:cy="32"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="-47.366576"
+     inkscape:cy="14.027344"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,18 +48,6 @@
      inkscape:document-rotation="0" />
   <defs
      id="defs3051">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient835">
-      <stop
-         style="stop-color:#9966cc;stop-opacity:1"
-         offset="0"
-         id="stop831" />
-      <stop
-         style="stop-color:#9966cc;stop-opacity:1"
-         offset="1"
-         id="stop833" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient827">
@@ -112,19 +101,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient827"
        id="linearGradient829"
-       x1="4.2125945"
-       y1="33.189289"
-       x2="59.901947"
-       y2="32.806557"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient835"
-       id="linearGradient837"
-       x1="4"
-       y1="13"
-       x2="60"
-       y2="13"
+       x1="3"
+       y1="32"
+       x2="60.69986"
+       y2="32.221462"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
@@ -133,7 +113,7 @@
      class="ColorScheme-Highlight"
      id="path4" />
   <path
-     style="fill:url(#linearGradient837);fill-opacity:1;fill-rule:evenodd"
+     style="fill:#9966cc;fill-opacity:1;fill-rule:evenodd"
      d="m 3.9999997,6 v 5 9 H 22 l 4,-4 h 34 v -4.990234 c 0,-0.003 -0.002,-0.0058 -0.002,-0.0098 H 60 v -1 H 32 l -4,-4 z"
      id="path6"
      inkscape:connector-curvature="0" />
@@ -146,4 +126,8 @@
      d="M 26 16 L 20 19 L 4 19 L 4 20 L 22 20 L 26 16 z M 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 60 57 L 4 57 L 3 57 z "
      class="ColorScheme-Text"
      id="path10" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.25"
+     d="m 23.58182,27.499 c -0.59365,0 -1.07182,0.478205 -1.07182,1.071782 v 17.856436 c 0,0.593577 0.50439,0.897216 1.07182,1.071782 H 28.76 v -13.75 h 7.5 v -6.25 z m 13.92818,0 v 20 h 5.17822 c 0.59358,0 1.07178,-0.478205 1.07178,-1.071782 V 28.570782 C 43.76,27.977205 43.2818,27.499 42.68822,27.499 Z m -13.75,1.25 h 11.25 v 3.75 h -6.25 a 1.2501243,1.2501243 0 0 0 -1.25,1.25 v 12.5 h -3.69143 c -0.0221,-0.01118 -0.0435,-0.0166 -0.0589,-0.02434 z m 15,0 h 3.75 v 17.5 h -3.75 z m -8.75,6.25 v 12.5 h 6.25 v -12.5 z m 1.25,1.25 h 3.75 v 10 h -3.75 z"
+     id="path4-3" />
 </svg>
